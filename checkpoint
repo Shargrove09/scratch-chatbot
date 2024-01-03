@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\Coding\\scratch-chatbot\\chatbot_dnn.tflearn"
+all_model_checkpoint_paths: "F:\\Coding\\scratch-chatbot\\chatbot_dnn.tflearn"
